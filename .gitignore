@@ -1,0 +1,12 @@
+# VS Code and IntelliJ project files
+.vscode/
+.classpath
+
+# Logs and database files
+*.log
+
+# JAR
+lib/*.jar
+
+#db
+*.db
